@@ -1,2 +1,2 @@
 # funny-jenkins
-Dokcerfile is present in Funny_app
+Dockerfile is present in Funny_app
